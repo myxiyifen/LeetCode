@@ -1,5 +1,10 @@
 package com.xiyifen.array;
 
+
+/**
+ * 连续1的最大数
+ *
+ */
 public class Array_07 {
     //[1,1,0,1,1,1,1]
     public static void main(String[] args) {
